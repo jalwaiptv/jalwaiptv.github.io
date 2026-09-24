@@ -1,0 +1,7 @@
+https://jalwaiptv.github.io/
+https://jalwaiptv.github.io/docs/getting-started.html
+https://jalwaiptv.github.io/docs/firestick-setup.html
+https://jalwaiptv.github.io/docs/android-tv-setup.html
+https://jalwaiptv.github.io/docs/smart-tv-setup.html
+https://jalwaiptv.github.io/docs/buffering-troubleshooting.html
+https://jalwaiptv.github.io/docs/faq.html
